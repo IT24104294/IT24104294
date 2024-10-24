@@ -1,4 +1,4 @@
-## IT24104294 W.D.T.N Sumanawardana
+## <center>IT24104294 W.D.T.N Sumanawardana</center>
 # Welcome to My GitHub Profile!
 <img src="https://media.tenor.com/4BkYeeOwEUgAAAAM/waving-wave.gif" alt="waving-hand">
 
