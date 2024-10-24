@@ -1,5 +1,6 @@
 ## IT24104294 W.D.T.N Sumanawardana
-# Welcome to My GitHub Profile! <img src="https://media.tenor.com/4BkYeeOwEUgAAAAM/waving-wave.gif" alt="waving-hand">
+# Welcome to My GitHub Profile!
+<img src="https://media.tenor.com/4BkYeeOwEUgAAAAM/waving-wave.gif" alt="waving-hand">
 
 Hello! I’m IT24104294 W.D.T.N Sumanawardana, a passionate student at SLIIT University studying Cyber Security. This repository showcases my projects, skills, and interests in the field of Cyber Security, Web Devlopment. 
 
